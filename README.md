@@ -12,6 +12,8 @@ Sequence-to-Sequence (S2S) neural text generation models, especially the pre-tra
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Neural Rule-Execution Tracking Machine For Transformer-Based Text Generation<br>pdf: <a href="https://t.co/UgFUIvLwUU">https://t.co/UgFUIvLwUU</a><br>abs: <a href="https://t.co/jhpkwTteGR">https://t.co/jhpkwTteGR</a><br><br>can be equipped into various transformer-based generators to leverage multiple rules simultaneously to guide the neural generation model <a href="https://t.co/BOPKkpZsIw">pic.twitter.com/BOPKkpZsIw</a></p>&mdash; AK (@ak92501) <a href="https://twitter.com/ak92501/status/1420544955118936070?ref_src=twsrc%5Etfw">July 29, 2021</a></blockquote>
-# 2. Mention Flags (MF): Constraining Transformer-based Text Generators<br>
+
+# 2. Mention Flags (MF): Constraining Transformer-based Text Generators 
+
 https://aclanthology.org/2021.acl-long.9.pdf<br>
 https://github.com/GaryYufei/ACL2021MF
